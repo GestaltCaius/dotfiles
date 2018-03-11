@@ -1,0 +1,5 @@
+[user]
+	email = rodguillaume@tuta.io
+	name = Rod Guillaume
+[pull]
+	rebase = true
